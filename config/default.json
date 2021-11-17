@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "db": "mongodb://localhost/customer_training"
+}
